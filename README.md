@@ -16,3 +16,7 @@ A time series prototype of an RNN using GRU to predict household energy consumpt
 ### 2. Energy Consumption Singular ARIMA Model - Jupyter Notebook
 A time series prototype of an ARIMA model to predict household energy consumption patterns on a singular series of data.
 <img src="./img/02_energy_consumption_arima_model.png">
+
+### 3. Energy Consumption Battery Supplement Model - Jupyter Notebook
+A statistical model of energy consumption displacement when supplemented by battery storage at various sizes.
+<img src="./img/03_energy_consumption_battery_supplement_model.png">
