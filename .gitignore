@@ -1,6 +1,7 @@
 .ipynb_checkpoints/
 checkpoint
-data/raw-data-energy-meters/
+data/raw-data-energy-meters/meter-readings
+data/raw-data-energy-meters/no-meter-readings
 .idea/
 logs/
 .vscode/
