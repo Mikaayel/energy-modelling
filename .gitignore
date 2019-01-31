@@ -1,2 +1,6 @@
-.ipynb_checkpoints
+.ipynb_checkpoints/
 checkpoint
+data/raw-data-energy-meters/
+.idea/
+logs/
+.vscode/
